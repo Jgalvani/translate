@@ -1,3 +1,3 @@
 # translate
 
-Translate english texts into french texts
+Translates english texts into french texts.
